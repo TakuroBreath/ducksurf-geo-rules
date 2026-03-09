@@ -3407,6 +3407,7 @@
 4lordserials.xyz
 4pd-stat.com
 4pda.ru
+4pda.to
 4pig.com
 4plebs.org
 4pna.com
@@ -4095,6 +4096,7 @@ ajajase.one
 ajajase.online
 ajira-hr.com
 akaihentai.com
+akamaized.net
 akazino.com
 akef.in
 akhbara24.news
@@ -4280,6 +4282,7 @@ amateurvoyeurforum.com
 amateurzoofilms.shop
 amatic.com
 amaturetube.com
+amazonaws.com
 amazonslots.com
 ambebi.ge
 amdm.ru
@@ -4462,6 +4465,7 @@ anonymster.com
 anothercredit.ru
 ante.city
 antena3.com
+anthropic.com
 anticoruptie.md
 antifriz.tv
 antikor.info
@@ -5158,6 +5162,7 @@ bazdepozit-2026.fun
 bazooka-shop.org
 bb.lv
 bbato.com
+bbc.co.uk
 bbc.com
 bbcccnn.org
 bbcrussian.com
@@ -7519,6 +7524,7 @@ chat-hozn3.com
 chat-s-devushkami.com
 chat.ru
 chat18.top
+chatgpt.com
 chathamhouse.org
 chatrandom.com
 chatruletka-18.com
@@ -7669,6 +7675,7 @@ clash.gg
 clashofslots.com
 clasmusic.ru
 classicoptionmarket.com
+claude.ai
 claw1337.casino
 clbnkclusterpays.top
 clck.bar
@@ -7697,6 +7704,9 @@ clipzui.com
 clipzui.fun
 cloudbet.com
 cloudbuddy.online
+cloudflare-dns.com
+cloudflare.com
+cloudfront.net
 cloudhdwallpapers.com
 cloudtorrents.com
 clovekvtisni.cz
@@ -8929,6 +8939,10 @@ dirultra.com
 dis-course.net
 disboard.org
 discard.email
+discord.com
+discord.gg
+discord.media
+discordapp.com
 discountpharms.com
 discours.io
 dishcuss.com
@@ -8974,6 +8988,8 @@ do4a.me
 dobro.ua
 doc.ua
 docarti.fr
+docker.com
+docker.io
 docplan.ru
 docplayer.net
 docplayer.ru
@@ -10041,6 +10057,7 @@ fast-totaloffer.com
 fastbet.com
 fastemoji.com
 fastestvpn.com
+fastly.net
 fastpari.com
 fastpay-casino.com
 fatakat-n.club
@@ -10141,6 +10158,7 @@ fiff.de
 fightdynasty.com
 fightnews.info
 fightplace.com
+figma.com
 figuradoma.ru
 fikfap.com
 file-rf.ru
@@ -11243,6 +11261,10 @@ girlznation.com
 gitbook.io
 gitbooks.io
 giters.com
+github.com
+github.io
+githubassets.com
+githubusercontent.com
 gitlab.io
 gitmemories.com
 givemepink.com
@@ -11415,7 +11437,11 @@ goodsexporn.org
 goodsmarket.site
 goodwayautomobiles.fr
 goodwin.am
+google-analytics.com
 google-cloud.services
+google.com
+googleapis.com
+googlevideo.com
 goojara.to
 goooool.org
 gooosha.ru
@@ -11560,6 +11586,7 @@ gsc-game.com
 gsf-soft.com
 gsn.com
 gspanel.net
+gstatic.com
 gt-lordfilm.ru
 gta-lordfilm.ru
 gta-zona.ru
@@ -18416,6 +18443,7 @@ norden.org
 nordfx.com
 nordicbet.com
 nordnews.md
+nordvpn.com
 norgecasino.com
 norgekasino.com
 norgescasino.com
@@ -18433,6 +18461,7 @@ notfans.com
 notgamstop.com
 nothingtoxic.com
 notion.site
+notion.so
 nov-krs.ru
 nov-shkola.ru
 nov.ru
@@ -18482,6 +18511,8 @@ nozomi.la
 npbfx-official.com
 npbfx.com
 npc-pzdp.ru
+npmjs.com
+npmjs.org
 nr2.ru
 nra.lv
 nrcrf.ru
@@ -18607,6 +18638,7 @@ o-be.com
 o-betwinner.ru
 o-melbet.ru
 o4ko.com
+oaiusercontent.com
 oakfnd.org
 oakleyforum.com
 oaseeds.com
@@ -19010,6 +19042,7 @@ ooo-tube.com
 ooorf.ru
 oosex.net
 opap.gr
+openai.com
 openclipart.org
 opencollective.com
 opendemocracy.net
@@ -19338,6 +19371,7 @@ perfectpussypics.com
 perforatorr.ru
 perlahelsa.ua
 peroxychem.com
+perplexity.ai
 perplexium.org
 persgroep.net
 pershyj.com
@@ -19562,6 +19596,7 @@ pinnacle.bet
 pinnacle.com
 pinnacle.se
 pinnacle888.com
+pinterest.com
 pinup-660-casino.com
 pinup-aviator2026.top
 pinup-bet-aze.com
@@ -21468,9 +21503,11 @@ pwrestling.com
 pxfuel.com
 pximg.net
 pxlmo.com
+pypi.org
 pyra-handheld.com
 pyramidseeds.com
 pythonanywhere.com
+pythonhosted.org
 pzm-lordfilm.ru
 q107.ru
 q108.ru
@@ -21893,6 +21930,7 @@ retrokasino.online
 retrokasino.ru
 retromagaz.com
 retrov.ru
+reuters.com
 review-mostbet1.com
 reviewed-casinos.com
 revieweek.com
@@ -22937,6 +22975,7 @@ scatville.com
 scatvipfile.com
 scatxxxporn.com
 scbiz.com
+scdn.co
 sch2kr.ru
 sch2stav.ru
 sch3-tag.ru
@@ -23495,6 +23534,7 @@ sigma.world
 sigmafamily.ru
 sigmapic.com
 sigmapics.com
+signal.org
 sikatpinoy.net
 sikwap.mobi
 silentbet.com
@@ -24123,6 +24163,7 @@ sportspiracy.net
 sportspunter.com
 sportwettenvergleich.net
 spot-a-cop.com
+spotify.com
 spr24.net
 spravka.ru
 spravkaru.net
@@ -24162,7 +24203,9 @@ ssylki.info
 st-metal.ru
 st-tver.ru
 stableproxy.com
+stackexchange.com
 stackfront.xyz
+stackoverflow.com
 stafaband-76.com
 stake-casino-official.buzz
 stake-go.ru
@@ -24255,7 +24298,10 @@ stavka-vip38.ru
 stayersaratov.ru
 stb.ua
 stealthy.co
+steamcommunity.com
 steampeek.hu
+steampowered.com
+steamstatic.com
 steamygamer.com
 steemitimages.com
 stelario.com
@@ -24523,6 +24569,7 @@ sz.kz
 szexkepek.net
 szm.com
 t-online.de
+t.me
 t0p.casino
 t1.ua
 t18.buzz
@@ -24685,6 +24732,7 @@ telegraf.news
 telegrafua.com
 telegram-politics.com
 telegram-store.com
+telegram.org
 telegramchannels.me
 telegramian.com
 telekritika.ua
@@ -25451,6 +25499,7 @@ tsumada.ru
 tsumino.com
 tt-maximum.com
 ttelka.com
+ttvnw.net
 tub4us.top
 tubator.com
 tube-ok.com
@@ -25612,6 +25661,7 @@ tw1.ru
 twibooru.org
 twicopy.com
 twilightparadox.com
+twimg.com
 twin.com
 twink-boys.com
 twinkaboo.com
@@ -25629,6 +25679,7 @@ twirpx.one
 twistedporn.com
 twistys.com
 twistysnetwork.com
+twitch.tv
 twitter.com
 twomovies.info
 twoplustwo.com
@@ -26652,6 +26703,7 @@ viamagaz.ru
 viastreaming.net
 viatravelers.com
 vibefilms.top
+viber.com
 vibragame.org
 vice.com
 victoryfund.org
@@ -27777,6 +27829,7 @@ web-individualka.com
 web-literatura.ru
 web-starlets.com
 web.app
+web.telegram.org
 web.tv
 web2sex.com
 web2ua.com
@@ -27856,6 +27909,8 @@ whale.io
 whalemanga.com
 whassup.fr
 whatboyswant.com
+whatsapp.com
+whatsapp.net
 wheely.com
 when.gay
 whereismyporn.com
@@ -28103,6 +28158,7 @@ x-videochat.ru
 x-videoz.com
 x-x-x.tube
 x-xx.pro
+x.com
 x100casino.ru
 x107.ru
 x1080hd.com
@@ -28768,6 +28824,8 @@ youteenporn.net
 youth4work.com
 youtor.org
 youtrannytube.com
+youtu.be
+youtube.com
 youtuberepeater.com
 youtubeunblocked.live
 youwin.com
@@ -28777,7 +28835,9 @@ yqbyyoplait.com
 yqc-lordfilm.ru
 yqlog.com
 yrprno.com
+yt.be
 ytclone.com
+ytimg.com
 yto.to
 yts2.net
 yug.today
@@ -29101,6 +29161,7 @@ zoohardcore.shop
 zoohun.com
 zookings.com
 zoolover.shop
+zoom.us
 zooma17.online
 zooma44.casino
 zooma54.casino
